@@ -5,6 +5,10 @@
 ## Build Setup
 
 ``` bash
+
+# start one nodeServer in nodeServerFolder
+node sellappJson.js
+
 # install dependencies
 npm install
 
